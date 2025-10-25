@@ -1,0 +1,31 @@
+Product,Region,Sales,Profit,Discount,Category,Date
+Laptop Pro 15,North America,2500,625,0.1,Electronics,15-01-2024
+Office Chair Deluxe,Europe,450,135,0.05,Furniture,18-01-2024
+Wireless Mouse,Asia Pacific,75,22.5,0.15,Electronics,22-01-2024
+Standing Desk,North America,800,200,0.08,Furniture,25-01-2024
+Tablet 10 inch,Europe,650,162.5,0.12,Electronics,02-02-2024
+Ergonomic Keyboard,Asia Pacific,120,36,0.2,Electronics,05-02-2024
+Conference Table,North America,1200,300,0.06,Furniture,08-02-2024
+Smartphone Pro,Europe,950,237.5,0.18,Electronics,12-02-2024
+Desk Lamp LED,Asia Pacific,85,25.5,0.1,Furniture,15-02-2024
+Gaming Monitor 27,North America,480,120,0.14,Electronics,18-02-2024
+Filing Cabinet,Europe,320,96,0.07,Furniture,22-02-2024
+Bluetooth Speaker,Asia Pacific,180,54,0.25,Electronics,25-02-2024
+Executive Desk,North America,1500,375,0.04,Furniture,01-03-2024
+Smart Watch,Europe,380,95,0.16,Electronics,05-03-2024
+Bookshelf 5-Tier,Asia Pacific,220,66,0.09,Furniture,08-03-2024
+Webcam HD,North America,95,28.5,0.22,Electronics,12-03-2024
+Swivel Chair,Europe,350,105,0.11,Furniture,15-03-2024
+Printer All-in-One,Asia Pacific,420,126,0.13,Electronics,18-03-2024
+Coffee Table,North America,280,84,0.05,Furniture,22-03-2024
+Wireless Charger,Europe,65,19.5,0.3,Electronics,25-03-2024
+Lounge Sofa,Asia Pacific,1800,450,0.02,Furniture,28-03-2024
+Mechanical Keyboard,North America,150,45,0.17,Electronics,01-04-2024
+Drawer Unit 3-Tier,Europe,180,54,0.08,Furniture,05-04-2024
+Noise Cancel Headphones,Asia Pacific,300,90,0.19,Electronics,08-04-2024
+Meeting Room Table,North America,900,225,0.06,Furniture,12-04-2024
+Tablet Stand Adjustable,Europe,45,13.5,0.26,Electronics,15-04-2024
+Ergonomic Footrest,Asia Pacific,75,22.5,0.12,Furniture,18-04-2024
+Power Bank 20000mAh,North America,88,26.4,0.21,Electronics,22-04-2024
+Office Partition,Europe,650,195,0.07,Furniture,25-04-2024
+Gaming Headset RGB,Asia Pacific,200,60,0.23,Electronics,28-04-2024
